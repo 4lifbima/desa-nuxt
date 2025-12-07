@@ -34,7 +34,7 @@ export const agendaList: Agenda[] = [
       <ul>
         <li>08:00 - 08:30: Registrasi peserta</li>
         <li>08:30 - 09:00: Pembukaan oleh Kepala Desa</li>
-        <li>09:00 - 10:30: Paparan evaluasi RKPDes 2023</li>
+        <li>09:00 - 10:30: Paparan evaluasi RKPDes 2025</li>
         <li>10:30 - 12:00: Diskusi dan penampungan aspirasi</li>
         <li>12:00 - 13:00: Istirahat dan makan siang</li>
         <li>13:00 - 15:00: Penyusunan prioritas RKPDes 2024</li>
@@ -55,7 +55,7 @@ export const agendaList: Agenda[] = [
         <li>Warga yang berminat (dengan konfirmasi kehadiran)</li>
       </ul>
     `,
-        date: '15 November 2023',
+        date: '15 November 2025',
         time: '08:00 - 16:00 WIB',
         location: 'Balai Desa Maju',
         organizer: 'Sekretaris Desa',
@@ -93,7 +93,7 @@ export const agendaList: Agenda[] = [
       <h2>Lokasi dan Waktu</h2>
       <p>Vaksinasi akan dilaksanakan di Lapangan Desa, mulai pukul 07:00 WIB. Diharapkan warga datang tepat waktu untuk kelancaran proses vaksinasi.</p>
     `,
-        date: '20 November 2023',
+        date: '20 November 2025',
         time: '07:00 - 12:00 WIB',
         location: 'Lapangan Desa',
         organizer: 'Dinas Peternakan',
@@ -134,7 +134,7 @@ export const agendaList: Agenda[] = [
       <h2>Pendaftaran</h2>
       <p>Kuota terbatas untuk 30 peserta. Pendaftaran dapat dilakukan di kantor desa atau menghubungi nomor yang tertera.</p>
     `,
-        date: '25 November 2023',
+        date: '25 November 2025',
         time: '09:00 - 15:00 WIB',
         location: 'Lab Komputer Balai Desa',
         organizer: 'Tim Pengabdian Masyarakat',
@@ -173,7 +173,7 @@ export const agendaList: Agenda[] = [
       <h2>Informasi Tambahan</h2>
       <p>Bazar terbuka untuk umum. Parkir gratis tersedia di area lapangan desa. Ajak keluarga dan teman-teman untuk meramaikan acara ini!</p>
     `,
-        date: '1 Desember 2023',
+        date: '1 Desember 2025',
         time: '08:00 - 17:00 WIB',
         location: 'Halaman Kantor Desa',
         organizer: 'Koperasi Desa',

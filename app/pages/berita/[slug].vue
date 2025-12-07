@@ -248,7 +248,7 @@
             </div>
             <span class="text-xl font-bold tracking-tight">Desa<span class="text-primary">Maju</span></span>
           </NuxtLink>
-          <p class="text-gray-500 text-sm">© 2023 Pemerintah Desa Maju. Hak Cipta Dilindungi.</p>
+          <p class="text-gray-500 text-sm">© 2025 Pemerintah Desa Maju. Hak Cipta Dilindungi.</p>
         </div>
       </div>
     </footer>

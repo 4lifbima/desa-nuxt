@@ -18,9 +18,9 @@ export const beritaList: Berita[] = [
         title: 'Peresmian Jaringan Internet Fiber Optic di RW 05',
         excerpt: 'Peningkatan infrastruktur digital terus dilakukan demi menunjang aktivitas belajar dan ekonomi warga setempat.',
         content: `
-      <p>Dalam rangka mewujudkan visi Desa Digital yang modern dan terkoneksi, Pemerintah Desa Maju telah meresmikan jaringan internet fiber optic di wilayah RW 05 pada hari Minggu, 10 Oktober 2023.</p>
+      <p>Dalam rangka mewujudkan visi Desa Digital yang modern dan terkoneksi, Pemerintah Desa Maju telah meresmikan jaringan internet fiber optic di wilayah RW 05 pada hari Minggu, 10 Oktober 2025.</p>
 
-      <p>Peresmian ini dihadiri langsung oleh Kepala Desa Bpk. Wijaya Kusuma beserta jajaran perangkat desa dan perwakilan warga RW 05. Jaringan fiber optic ini merupakan bagian dari program Smart Village yang dicanangkan sejak awal tahun 2023.</p>
+      <p>Peresmian ini dihadiri langsung oleh Kepala Desa Bpk. Wijaya Kusuma beserta jajaran perangkat desa dan perwakilan warga RW 05. Jaringan fiber optic ini merupakan bagian dari program Smart Village yang dicanangkan sejak awal tahun 2025.</p>
 
       <h2>Manfaat Bagi Warga</h2>
       <p>Dengan adanya jaringan internet berkecepatan tinggi ini, warga dapat menikmati berbagai kemudahan seperti:</p>
@@ -38,12 +38,12 @@ export const beritaList: Berita[] = [
         "Ini adalah langkah nyata kami dalam membangun desa yang cerdas. Internet bukan lagi barang mewah, tapi kebutuhan dasar untuk kemajuan bersama." - Bpk. Wijaya Kusuma, Kepala Desa
       </blockquote>
 
-      <p>Program ini merupakan hasil kerjasama antara Pemerintah Desa dengan provider telekomunikasi nasional dan didukung penuh oleh dana desa tahun anggaran 2023.</p>
+      <p>Program ini merupakan hasil kerjasama antara Pemerintah Desa dengan provider telekomunikasi nasional dan didukung penuh oleh dana desa tahun anggaran 2025.</p>
     `,
         category: 'Pembangunan',
         image: '/berita/center-point.jpg',
         author: 'Admin Desa',
-        date: '10 Oktober 2023',
+        date: '10 Oktober 2025',
         readTime: '5 menit'
     },
     {
@@ -52,7 +52,7 @@ export const beritaList: Berita[] = [
         title: 'Pelatihan Digital Marketing untuk UMKM Desa',
         excerpt: 'Membuka wawasan pelaku usaha mikro mengenai potensi pasar online marketplace.',
         content: `
-      <p>Dalam upaya meningkatkan kapasitas pelaku Usaha Mikro, Kecil, dan Menengah (UMKM) di Desa Maju, Pemerintah Desa bekerja sama dengan Dinas Koperasi dan UKM mengadakan Pelatihan Digital Marketing pada tanggal 8 Oktober 2023.</p>
+      <p>Dalam upaya meningkatkan kapasitas pelaku Usaha Mikro, Kecil, dan Menengah (UMKM) di Desa Maju, Pemerintah Desa bekerja sama dengan Dinas Koperasi dan UKM mengadakan Pelatihan Digital Marketing pada tanggal 8 Oktober 2025.</p>
 
       <p>Pelatihan yang berlangsung di Balai Desa ini diikuti oleh 45 peserta yang terdiri dari berbagai jenis usaha mulai dari kuliner, kerajinan tangan, hingga produk pertanian.</p>
 
@@ -78,7 +78,7 @@ export const beritaList: Berita[] = [
         category: 'Ekonomi',
         image: '/berita/pengabdian.jpg',
         author: 'Admin Desa',
-        date: '8 Oktober 2023',
+        date: '8 Oktober 2025',
         readTime: '4 menit'
     },
     {
@@ -87,7 +87,7 @@ export const beritaList: Berita[] = [
         title: 'Pembangunan Kantor Desa Baru Dimulai',
         excerpt: 'Kantor desa baru dengan konsep modern dan ramah lingkungan mulai dibangun bulan ini.',
         content: `
-      <p>Proyek pembangunan Kantor Desa Maju yang baru telah resmi dimulai pada awal bulan Oktober 2023. Kantor baru ini akan menggantikan bangunan lama yang sudah berusia lebih dari 30 tahun.</p>
+      <p>Proyek pembangunan Kantor Desa Maju yang baru telah resmi dimulai pada awal bulan Oktober 2025. Kantor baru ini akan menggantikan bangunan lama yang sudah berusia lebih dari 30 tahun.</p>
 
       <p>Pembangunan ini merupakan respons terhadap kebutuhan ruang pelayanan yang lebih luas dan modern seiring dengan meningkatnya jumlah penduduk dan kompleksitas layanan administrasi desa.</p>
 
@@ -111,7 +111,7 @@ export const beritaList: Berita[] = [
         category: 'Pembangunan',
         image: '/berita/kantor-desa.png',
         author: 'Admin Desa',
-        date: '5 Oktober 2023',
+        date: '5 Oktober 2025',
         readTime: '3 menit'
     },
     {
@@ -145,7 +145,7 @@ export const beritaList: Berita[] = [
         category: 'Sosial',
         image: '/berita/Cibutu04.jpeg',
         author: 'Admin Desa',
-        date: '1 Oktober 2023',
+        date: '1 Oktober 2025',
         readTime: '4 menit'
     }
 ]

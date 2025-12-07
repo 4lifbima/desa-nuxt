@@ -241,7 +241,7 @@
           <img src="https://images.unsplash.com/photo-1556157382-97eda2d62296?auto=format&fit=crop&q=80&w=800" alt="Kepala Desa" class="relative rounded-2xl shadow-2xl w-full h-[500px] object-cover grayscale hover:grayscale-0 transition-all duration-500 border-4 border-white dark:border-dark-surface">
           <div class="absolute bottom-8 left-[-20px] bg-white dark:bg-dark-surface shadow-xl p-6 rounded-lg border-l-4 border-primary max-w-xs">
             <h4 class="text-xl font-bold text-gray-900 dark:text-white">Bpk. Wijaya Kusuma</h4>
-            <p class="text-primary font-medium text-sm">Kepala Desa Periode 2023-2028</p>
+            <p class="text-primary font-medium text-sm">Kepala Desa Periode 2025-2020</p>
           </div>
         </div>
         <div class="reveal" style="transition-delay: 200ms;">
@@ -550,7 +550,7 @@
       </div>
 
       <div class="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-        <p class="text-gray-500 text-sm">© 2023 Pemerintah Desa Maju. Hak Cipta Dilindungi.</p>
+        <p class="text-gray-500 text-sm">© 2025 Pemerintah Desa Maju. Hak Cipta Dilindungi.</p>
         <div class="flex gap-8 text-sm text-gray-500">
           <a href="#" class="hover:text-primary">Privasi</a>
           <a href="#" class="hover:text-primary">Ketentuan</a>
